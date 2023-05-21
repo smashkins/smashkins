@@ -13,6 +13,6 @@
 
 📫  Feel free to reach me:
 
-[![Email](https://img.shields.io/badge/Email-%40v.stira@gmail.com%20-blue)](mailto:v.stira@gmail.com?)
+[![Email](https://img.shields.io/badge/Email-%40v.stira@gmail.com%20-blue)](mailto:v.stira@gmail.com)
 [![Linkedin: vishal-malvi-587511125/](https://img.shields.io/badge/-Smashkins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vstira)](https://www.linkedin.com/in/vstira)
-[![Twitter: smashkins_](https://img.shields.io/twitter/follow/smashkins_?style=social)](https://twitter.com/smashkins)
+[![Twitter: smashkins_](https://img.shields.io/twitter/follow/smashkins?style=social)](https://twitter.com/smashkins)
